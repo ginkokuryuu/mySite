@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "title": "Auto Route Controller Express JS",
+        "description": "This is a library for ExpressJS to add dynamic routing based on your controller. Can adapt to any types of architecture, as long as it is modular. Can be used in non-modular architecture with slight changes",
+        "link": "https://github.com/ginkokuryuu/auto-route-controller",
+        "technology": "Javascript",
+        "hasImage": false
+    },
+    {
+        "id": 2,
+        "title": "3D Puzzle Game ECOFLIP",
+        "description": "Finalist of GEMASTIK XI. 3D puzzle game for android. Unique gameplay and puzzle mechanic. Created using Unity Game Engine",
+        "link": "https://kokuhaku.itch.io/ecoflip",
+        "technology": "C#",
+        "hasImage": true,
+        "imageSource": [
+            "/images/ecoflip/eco-1.jpg",
+            "/images/ecoflip/eco-2.jpg",
+            "/images/ecoflip/eco-3.jpg",
+            "/images/ecoflip/eco-4.jpg",
+            "/images/ecoflip/eco-5.jpg",
+            "/images/ecoflip/eco-6.jpg",
+            "/images/ecoflip/eco-7.jpg",
+            "/images/ecoflip/eco-8.jpg",
+            "/images/ecoflip/eco-9.jpg",
+            "/images/ecoflip/eco-10.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Inspection Training of Life Saving Appliance VR",
+        "description": "A virtual reality application for android. Used to train person for inspecting live saving appliance of a ship, so trainees don't have to wait for a ship to dock in a harbor to inspect. Created using Unity Game Engine and Google Cardboard SDK",
+        "link": "https://kokuhaku.itch.io/lsa-training-vr",
+        "technology": "C#, Google Cardboard SDK",
+        "hasImage": false
+    },
+    {
+        "id": 4,
+        "title": "VR Eco Sky Car",
+        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
+        "link": "https://kumparan.com/beritaanaksurabaya/wujudkan-pembelajaran-canggih-its-resmikan-lab-virtual-reality-1sEpsm2D2jN/full",
+        "technology": "C#, OpenVR SDK",
+        "hasImage": false
+    },
+    {
+        "id": 5,
+        "title": "XPLORIA Jogja Istimewa",
+        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
+        "link": "https://play.google.com/store/apps/details?id=com.Arutala.XploriaJogja",
+        "technology": "C#, Augmented Reality",
+        "hasImage": false
+    },
+    {
+        "id": 6,
+        "title": "Gama Cardiac AR",
+        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
+        "link": "https://play.google.com/store/apps/details?id=com.Arutala.ARCardiac",
+        "technology": "C#, Augmented Reality",
+        "hasImage": false
+    },
+    {
+        "id": 7,
+        "title": "Kardinah Virtual Xperience",
+        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
+        "link": "",
+        "technology": "C#, Augmented Reality",
+        "hasImage": false
+    }
+]

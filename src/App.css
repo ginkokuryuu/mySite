@@ -1,0 +1,24 @@
+body{
+    background-color: #111;
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: #222; 
+}
+   
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #555; 
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}

@@ -1,33 +1,11 @@
 [
     {
-        "id": 8,
-        "title": "Grey: A Roguelike Game",
-        "description": "This is a roguelike game developed by me as my Final Project in College. This game is a study case for algorithm implementation Cellular Automata. The world in this game is fully procedurally generated without any templates. There are 2 dungeons in this game and 2 Dungeon Boss for you to fight. Upgradde you character to make it easier beating the game!",
-        "link": "https://drive.google.com/file/d/1uLZ7PPebsS6LznLcmD1IInzV46ycWpoe/view?usp=sharing",
-        "technology": "C#, Cellular Automata, Procedural Generation",
-        "hasImage": true,
-        "imageSource": [
-            "/images/grey/1.jpg",
-            "/images/grey/2.jpg",
-            "/images/grey/3.jpg",
-            "/images/grey/4.jpg",
-            "/images/grey/5.jpg"
-        ]
-    },
-    {
-        "id": 9,
-        "title": "Emak vs Anak",
-        "description": "This is game I made for Global Game Jam 2018 in Surabaya. This game is inspired by Overcooked, but in a different twist. Rather than cooperating to finish the task like in Overcooked, this game is about a child disturbing his mother doing her house chores. The child win if the mother can't finish the task in time, and the mother win if she can finish the task in time. This game is local multiplayer game.",
-        "link": "https://kokuhaku.itch.io/emak-vs-anak",
-        "technology": "C#, Local Multiplayer",
-        "hasImage": true,
-        "imageSource": [
-            "/images/emakVSanak/1.jpg",
-            "/images/emakVSanak/2.jpg",
-            "/images/emakVSanak/3.jpg",
-            "/images/emakVSanak/4.jpg",
-            "/images/emakVSanak/5.jpg"
-        ]
+        "id": 1,
+        "title": "Auto Route Controller Express JS",
+        "description": "This is a library for ExpressJS to add dynamic routing based on your controller. Can adapt to any types of architecture, as long as it is modular. Can be used in non-modular architecture with slight changes",
+        "link": "https://github.com/ginkokuryuu/auto-route-controller",
+        "technology": "Javascript",
+        "hasImage": false
     },
     {
         "id": 2,
@@ -50,14 +28,6 @@
         ]
     },
     {
-        "id": 1,
-        "title": "Auto Route Controller Express JS",
-        "description": "This is a library for ExpressJS to add dynamic routing based on your controller. Can adapt to any types of architecture, as long as it is modular. Can be used in non-modular architecture with slight changes",
-        "link": "https://github.com/ginkokuryuu/auto-route-controller",
-        "technology": "Javascript",
-        "hasImage": false
-    },
-    {
         "id": 3,
         "title": "Inspection Training of Life Saving Appliance VR",
         "description": "A virtual reality application for android. Used to train person for inspecting live saving appliance of a ship, so trainees don't have to wait for a ship to dock in a harbor to inspect. Created using Unity Game Engine and Google Cardboard SDK",
@@ -76,37 +46,23 @@
     {
         "id": 5,
         "title": "XPLORIA Jogja Istimewa",
-        "description": "An AR application to help give tourist an interactive information provider about Jogja's tourism places. The application uses image tracking so it needs a marker for the AR object to spawn.",
+        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
         "link": "https://play.google.com/store/apps/details?id=com.Arutala.XploriaJogja",
         "technology": "C#, Augmented Reality",
-        "hasImage": true,
-        "imageSource": [
-            "/images/xploria/1.jpg",
-            "/images/xploria/2.jpg",
-            "/images/xploria/3.jpg",
-            "/images/xploria/4.jpg",
-            "/images/xploria/5.jpg"
-        ]
+        "hasImage": false
     },
     {
         "id": 6,
         "title": "Gama Cardiac AR",
-        "description": "An AR application to study the anatomy of heart. The learning mode has an AR mode so that you can freely look at the 3D heart that is approved by the doctor to be precise, but you don't need to always scan the marker so you can study anywhere. There is Quiz mode so you can test your knowledge about the heart anatomy. There are 3 levels available, Beginner, Intermediate, and Advance",
+        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
         "link": "https://play.google.com/store/apps/details?id=com.Arutala.ARCardiac",
         "technology": "C#, Augmented Reality",
-        "hasImage": true,
-        "imageSource": [
-            "/images/gamaCardiac/1.jpg",
-            "/images/gamaCardiac/2.jpg",
-            "/images/gamaCardiac/3.jpg",
-            "/images/gamaCardiac/4.jpg",
-            "/images/gamaCardiac/5.jpg"
-        ]
+        "hasImage": false
     },
     {
         "id": 7,
         "title": "Kardinah Virtual Xperience",
-        "description": "An AR app in collaboration with Kardinah Hospital in Tegal, Indonesia. It has two main function that is giving an interactive information about the hospital and giving navigation inside the building. So you can choose a destination room and then scan the marker available in the hospital to search for a direction.",
+        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
         "link": "",
         "technology": "C#, Augmented Reality",
         "hasImage": false

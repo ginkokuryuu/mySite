@@ -1,11 +1,33 @@
 [
     {
-        "id": 1,
-        "title": "Auto Route Controller Express JS",
-        "description": "This is a library for ExpressJS to add dynamic routing based on your controller. Can adapt to any types of architecture, as long as it is modular. Can be used in non-modular architecture with slight changes",
-        "link": "https://github.com/ginkokuryuu/auto-route-controller",
-        "technology": "Javascript",
-        "hasImage": false
+        "id": 8,
+        "title": "Grey: A Roguelike Game",
+        "description": "This is a roguelike game developed by me as my Final Project in College. This game is a study case for algorithm implementation Cellular Automata. The world in this game is fully procedurally generated without any templates. There are 2 dungeons in this game and 2 Dungeon Boss for you to fight. Upgradde you character to make it easier beating the game!",
+        "link": "https://drive.google.com/file/d/1uLZ7PPebsS6LznLcmD1IInzV46ycWpoe/view?usp=sharing",
+        "technology": "C#, Cellular Automata, Procedural Generation",
+        "hasImage": true,
+        "imageSource": [
+            "/mySite/images/grey/1.jpg",
+            "/mySite/images/grey/2.jpg",
+            "/mySite/images/grey/3.jpg",
+            "/mySite/images/grey/4.jpg",
+            "/mySite/images/grey/5.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Emak vs Anak",
+        "description": "This is game I made for Global Game Jam 2018 in Surabaya. This game is inspired by Overcooked, but in a different twist. Rather than cooperating to finish the task like in Overcooked, this game is about a child disturbing his mother doing her house chores. The child win if the mother can't finish the task in time, and the mother win if she can finish the task in time. This game is local multiplayer game.",
+        "link": "https://kokuhaku.itch.io/emak-vs-anak",
+        "technology": "C#, Local Multiplayer",
+        "hasImage": true,
+        "imageSource": [
+            "/mySite/images/emakVSanak/1.jpg",
+            "/mySite/images/emakVSanak/2.jpg",
+            "/mySite/images/emakVSanak/3.jpg",
+            "/mySite/images/emakVSanak/4.jpg",
+            "/mySite/images/emakVSanak/5.jpg"
+        ]
     },
     {
         "id": 2,
@@ -15,17 +37,25 @@
         "technology": "C#",
         "hasImage": true,
         "imageSource": [
-            "/images/ecoflip/eco-1.jpg",
-            "/images/ecoflip/eco-2.jpg",
-            "/images/ecoflip/eco-3.jpg",
-            "/images/ecoflip/eco-4.jpg",
-            "/images/ecoflip/eco-5.jpg",
-            "/images/ecoflip/eco-6.jpg",
-            "/images/ecoflip/eco-7.jpg",
-            "/images/ecoflip/eco-8.jpg",
-            "/images/ecoflip/eco-9.jpg",
-            "/images/ecoflip/eco-10.jpg"
+            "/mySite/images/ecoflip/eco-1.jpg",
+            "/mySite/images/ecoflip/eco-2.jpg",
+            "/mySite/images/ecoflip/eco-3.jpg",
+            "/mySite/images/ecoflip/eco-4.jpg",
+            "/mySite/images/ecoflip/eco-5.jpg",
+            "/mySite/images/ecoflip/eco-6.jpg",
+            "/mySite/images/ecoflip/eco-7.jpg",
+            "/mySite/images/ecoflip/eco-8.jpg",
+            "/mySite/images/ecoflip/eco-9.jpg",
+            "/mySite/images/ecoflip/eco-10.jpg"
         ]
+    },
+    {
+        "id": 1,
+        "title": "Auto Route Controller Express JS",
+        "description": "This is a library for ExpressJS to add dynamic routing based on your controller. Can adapt to any types of architecture, as long as it is modular. Can be used in non-modular architecture with slight changes",
+        "link": "https://github.com/ginkokuryuu/auto-route-controller",
+        "technology": "Javascript",
+        "hasImage": false
     },
     {
         "id": 3,
@@ -46,23 +76,37 @@
     {
         "id": 5,
         "title": "XPLORIA Jogja Istimewa",
-        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
+        "description": "An AR application to help give tourist an interactive information provider about Jogja's tourism places. The application uses image tracking so it needs a marker for the AR object to spawn.",
         "link": "https://play.google.com/store/apps/details?id=com.Arutala.XploriaJogja",
         "technology": "C#, Augmented Reality",
-        "hasImage": false
+        "hasImage": true,
+        "imageSource": [
+            "/mySite/images/xploria/1.jpg",
+            "/mySite/images/xploria/2.jpg",
+            "/mySite/images/xploria/3.jpg",
+            "/mySite/images/xploria/4.jpg",
+            "/mySite/images/xploria/5.jpg"
+        ]
     },
     {
         "id": 6,
         "title": "Gama Cardiac AR",
-        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
+        "description": "An AR application to study the anatomy of heart. The learning mode has an AR mode so that you can freely look at the 3D heart that is approved by the doctor to be precise, but you don't need to always scan the marker so you can study anywhere. There is Quiz mode so you can test your knowledge about the heart anatomy. There are 3 levels available, Beginner, Intermediate, and Advance",
         "link": "https://play.google.com/store/apps/details?id=com.Arutala.ARCardiac",
         "technology": "C#, Augmented Reality",
-        "hasImage": false
+        "hasImage": true,
+        "imageSource": [
+            "/mySite/images/gamaCardiac/1.jpg",
+            "/mySite/images/gamaCardiac/2.jpg",
+            "/mySite/images/gamaCardiac/3.jpg",
+            "/mySite/images/gamaCardiac/4.jpg",
+            "/mySite/images/gamaCardiac/5.jpg"
+        ]
     },
     {
         "id": 7,
         "title": "Kardinah Virtual Xperience",
-        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
+        "description": "An AR app in collaboration with Kardinah Hospital in Tegal, Indonesia. It has two main function that is giving an interactive information about the hospital and giving navigation inside the building. So you can choose a destination room and then scan the marker available in the hospital to search for a direction.",
         "link": "",
         "technology": "C#, Augmented Reality",
         "hasImage": false
